@@ -1,4 +1,5 @@
 # Analyzing Liquor Sales in Iowa: A Retail Supply Chain Project
+![](https://github.com/Bellevkey22/Sales-analysis/blob/main/liquor%20sales%20image.jpeg)
 
 # INTRODUCTION
 ABC Liquors is a retail chain with stores across Iowa. They are looking to improve their sales and optimize their inventory management to reduce stockouts and improve profitability. To achieve this goal, they have hired a data analyst to analyze their sales data and provide insights.
