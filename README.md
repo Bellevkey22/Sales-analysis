@@ -5,7 +5,7 @@
 ABC Liquors is a retail chain with stores across Iowa. They are looking to improve their sales and optimize their inventory management to reduce stockouts and improve profitability. To achieve this goal, they have hired a data analyst to analyze their sales data and provide insights.
 
 # PROBLEM STATEMENT
-As a data analyst, your goal is to analyze ABC Liquors' sales data and identify trends and patterns in their sales. Your tasks include:
+As a data analyst, your goal is to analyze ABC Liquors' sales data and identify trends and patterns in their sales in the past 5 years. Your tasks include:
 
 * Analyze ABC Liquors' sales data to identify their top-selling products and brands, and the top-selling products and brands by store location.
 
@@ -17,37 +17,56 @@ As a data analyst, your goal is to analyze ABC Liquors' sales data and identify 
 
 
 # SKILL DEMONSTRATED
+* Data quality assurance
+* Basic querying
+* Filtering data
+* Sorting data
+* Aggregating data
+
+
+
 # DATA SOURCE
 we will be using a large and clean public dataset of retail sales data provided by the State of Iowa's Alcoholic Beverages Division within the Iowa Department of Commerce. This dataset contains every wholesale purchase of liquor in the State of Iowa by retailers for sale to individuals since January 1, 2012. Furthermore, this public dataset is hosted in Google BigQuery 
 # DATA QUALITY TEST
 1. Completeness Check : This means checking if all required data fields are filled in and if there are no missing values.
-![](https://github.com/Bellevkey22/Sales-analysis/blob/main/completeness%20query.png) | ![](https://github.com/Bellevkey22/Sales-analysis/blob/main/completeness%20query.png)
-* Result
-![]
+
+
+Query                       | Result
+:-------------------------: | :----------------:
+![](completeness_query.png) | ![](completeness_result.png)
+
 <p> The number of missing values for price is negligible and can be worked with <p/>
 
 2. Uniqueness Check : This means checking if there are any duplicate records or data points.
-![]
-* Result
-![]
+
+
+Query                       | Check                     | Result
+:-------------------------: | :-----------------------: | :------------------------:
+![](uniqueness_query.png)   | ![](uniqueness_check.png) | ![](uniqueness_result.png)
 <p> There are no dulicate records<p/>
 
 3. Validity Check : This means checking if the data values are in the correct format and type.
-![]
-* Result
-![]
+
+
+ 
+Result |
+:----------------:|
+![](validity_result.png)|
 <p> They are in the correct format<p/>
 
 
 4. Timeliness Check : This means checking if the data is up-to-date and relevant to the time period being analyzed
-![]
-* Result
-![]
+
+
+Query                       | Result
+:-------------------------: | :----------------:
+![](timeliness_query.png) | ![](timeliness_result.png)
+
 <p> The dataset is up to date<p/>
 
 
 
-
-
 # ANALYSIS & VISUALIZATION
+1. Identifying top selling products and brands
+
 # CONCLUSION & RECOMMENDATION
