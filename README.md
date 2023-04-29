@@ -21,7 +21,7 @@ As a data analyst, your goal is to analyze ABC Liquors' sales data and identify 
 we will be using a large and clean public dataset of retail sales data provided by the State of Iowa's Alcoholic Beverages Division within the Iowa Department of Commerce. This dataset contains every wholesale purchase of liquor in the State of Iowa by retailers for sale to individuals since January 1, 2012. Furthermore, this public dataset is hosted in Google BigQuery 
 # DATA QUALITY TEST
 1. Completeness Check : This means checking if all required data fields are filled in and if there are no missing values.
-![]
+![](https://github.com/Bellevkey22/Sales-analysis/blob/main/completeness%20query.png) | ![](https://github.com/Bellevkey22/Sales-analysis/blob/main/completeness%20query.png)
 * Result
 ![]
 <p> The number of missing values for price is negligible and can be worked with <p/>
