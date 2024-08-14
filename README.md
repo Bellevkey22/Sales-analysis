@@ -5,8 +5,6 @@
 ABC Liquors is a retail chain with stores across Iowa. They are looking to improve their sales and optimize their inventory management to reduce stockouts and improve profitability. To achieve this goal, they have hired a data analyst to analyze their sales data and provide insights.
 
 # PROBLEM STATEMENT
-As a data analyst, your goal is to analyze ABC Liquors' sales data and identify trends and patterns in their sales in the past 5 years. Your tasks include:
-
 * Analyze ABC Liquors' sales data to identify their top-selling products and brands, and the top-selling products and brands by store location.
 
 * Identify any seasonal trends or patterns in sales, and suggest strategies to optimize inventory levels to reduce stockouts and improve profitability.
